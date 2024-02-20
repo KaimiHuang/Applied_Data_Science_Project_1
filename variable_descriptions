@@ -1,0 +1,15 @@
+Id - Unique ID for the loan application.
+Grade - The grade of the loan.
+Annual _ inc - The annual income provided by the loaner during the registration period.
+Short _ emp - 1 when the borrower has been employed for 1 year or less.
+Emp _ length _ num - Number of years worked (in years). It ranges from 0 to 10, where 0 means less than a year and 10 means a decade or more.
+Home _ ownership - Type of ownership.
+DTI- Debt-to-Income Ratio is calculated by dividing the borrower's total monthly debt payments by the total debt obligation (excluding mortgage and letter of credit loans applied for) divided by the borrower's monthly income.
+Purpose - The category of the loan request.
+Term - The number of repayments on the loan.
+Last _ delinq _ none - 1 when the debit has been in default at least once.
+Last _ major _ derog _ none - 1 when the loaner has a bad rating for at least 90 days.
+Revol _ util - Revolving Credit Utilization Rate or the amount of credit used by the borrower relative to all available revolving credits.
+Total _ rec _ late _ fee - Late fees received so far.
+D _ ratio - Overdraft ratio.
+Bad _ loan - 1 when the loan is not paid.
